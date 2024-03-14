@@ -1,0 +1,7 @@
+{
+    "name": "update fork workflow",
+    "description": "update fork CI starter workflow.",
+    "iconName": "trophy-16",
+   "categories": ["Continuous integration", "Dockerfile" ],
+
+}
